@@ -112,6 +112,10 @@ self.__precacheManifest = [
     "url": "/princeweb/static/media/et-line.b01ff252.woff"
   },
   {
+    "revision": "a1ecc3b826d01251edddf29c3e4e1e97",
+    "url": "/princeweb/static/media/themify.a1ecc3b8.woff"
+  },
+  {
     "revision": "569bd9082c15cc30fa6e05626abdd505",
     "url": "/princeweb/static/media/et-line.569bd908.svg"
   },
@@ -122,10 +126,6 @@ self.__precacheManifest = [
   {
     "revision": "e23a7dcaefbde4e74e263247aa42ecd7",
     "url": "/princeweb/static/media/themify.e23a7dca.ttf"
-  },
-  {
-    "revision": "a1ecc3b826d01251edddf29c3e4e1e97",
-    "url": "/princeweb/static/media/themify.a1ecc3b8.woff"
   },
   {
     "revision": "9c8e96ecc7fa01e6ebcd196495ed2db5",
